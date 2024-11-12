@@ -6,7 +6,7 @@ g = 47
 a = 19
 b = 47
 
-ciphertext = "sEICEI{tR55RT_xTbBC0d_TqiOTH_J7Ud_HIq_hRW7J}"
+ciphertext = "sEICEISU{tR55RT_xTbBC0d_TqiOTH_J7Ud_HIq_hRW7J}"
 
 plaintext = ""
 
