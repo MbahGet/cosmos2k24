@@ -12,4 +12,4 @@ Author: **Maet**
 
 ## Flag
 
-COSMOS{D1ff13_H3lLMan_3AsY3R_Th4n_RSA_r16hT}
+COSMOS24{D1ff13_H3lLMan_3AsY3R_Th4n_RSA_r16hT}
