@@ -2,20 +2,14 @@
 
 ## Deskripsi
 
-Sebuah _**Robot**_ telah membagi flag menjadi beberapa bagian, bisakah anda menolong saya untuk mengumpulkan semua bagian flag?
+ _HUH_ who tf is Mr.Vige??
 
-Author: **anakmamah**
+Author: **Maet**
 
 ## Hint
 
-
 ## POC
-
-- Part 1 -> ada di style css
-- Part 2 -> ada di robots.txt
-- Part 3 -> ada di part3.js
-- Part 4 -> ada di secret button
 
 ## Flag
 
-COSMOS24{c0ngr4ts_u_p4ssed_th3_s4n1ty_ch3ck}
+COSMOS{V16eN3rE_i5_e4sY_p3A5y}
